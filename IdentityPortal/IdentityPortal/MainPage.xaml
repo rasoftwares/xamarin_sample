@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:IdentityPortal"
              x:Class="IdentityPortal.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+	<Label Text="Welcome to Xamarin Forms Collins!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
